@@ -11,8 +11,6 @@
       background-image: url('./images/all-fruits.jpg');
       background-size:cover;
       background-position: center;
-
-
 }
 
 body {
@@ -29,7 +27,6 @@ body {
     color: white;
     height:25vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 .fruits:hover {
