@@ -1,0 +1,37 @@
+.containeur {
+    display: flex;
+}
+
+.col {
+   flex-basis: 50%;
+
+}
+
+.backImage {
+      background-image: url('./images/all-fruits.jpg');
+      background-size:cover;
+      background-position: center;
+
+
+}
+
+body {
+      margin:0px;
+      padding:0px;
+}
+
+.fruits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    background-color: gray;
+    color: white;
+    height:25vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.fruits:hover {
+    background-color: rgb(78, 78, 78);
+}
